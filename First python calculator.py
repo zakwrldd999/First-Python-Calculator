@@ -1,7 +1,7 @@
 # My first python calculator.
 
 
-print("Welcome to my first python calculator")
+print("Welcome to my first python calculator.")
 
 
 number1 = int(input("Enter your first number here:"))
@@ -25,4 +25,5 @@ else:
 
 
 # Thank you for using my first python calculator.
+
 
