@@ -1,2 +1,2 @@
 # First-Python-Calculator
-Simple calculator that can add, subtract, divide, and multiply.
+ A Simple calculator that can add, subtract, divide, and multiply.
